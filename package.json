@@ -1,5 +1,5 @@
 {
-  "name": "test-npm-package",
+  "name": "@sujan-npm/test-npm-package",
   "version": "1.0.0",
   "description": "test package",
   "main": "index.js",
