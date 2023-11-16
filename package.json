@@ -1,0 +1,19 @@
+{
+  "name": "test-npm-package",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujan-sth101/test-npm-package.git"
+  },
+  "author": "Sujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujan-sth101/test-npm-package/issues"
+  },
+  "homepage": "https://github.com/sujan-sth101/test-npm-package#readme"
+}
