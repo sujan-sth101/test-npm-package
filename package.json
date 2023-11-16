@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/sujan-sth101/test-npm-package.git"
   },
+  "publishConfig": {
+    "@sujan-sth101:registry": "https://npm.pkg.github.com"
+  },
   "author": "Sujan",
   "license": "ISC",
   "bugs": {
