@@ -6,6 +6,8 @@ name: Test npm package
 on:
   release:
     types: [created]
+    secrets:
+        npm_token: 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
 
 jobs:
   build:
